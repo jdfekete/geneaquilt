@@ -19,6 +19,14 @@
     <url>https://github.com/jdfekete/geneaquilt/</url>
     <tag>geneaquilt-1.0.11-SNAPSHOT</tag>
   </scm>
+
+  <distributionManagement>
+    <repository>
+      <id>internal.repo</id>
+      <name>Temporary Staging Repository</name>
+      <url>file://${project.build.directory}/mvn-repo</url>
+    </repository>
+  </distributionManagement>
   
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
