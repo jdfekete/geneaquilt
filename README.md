@@ -1,4 +1,15 @@
-== ECLIPSE ==
+# GeneaQuilts
+
+GeneaQuilts is a new visualization technique for representing large
+genealogies of up to several thousand individuals. The visualization
+takes the form of a diagonally-filled matrix, where rows are
+individuals and columns are nuclear families. The GeneaQuilts system
+includes an overview, a timeline, search and filtering components, and
+a new interaction technique called Bring & Slide that allows fluid
+navigation in very large genealogies.
+
+
+# Developing with ECLIPSE
 
 To import the GeneaQuilts project in Eclipse, you first need to install the Subclipse plugin:
 - Go the the Help menu -> Install new software...
