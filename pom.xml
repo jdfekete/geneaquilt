@@ -137,47 +137,6 @@
           </execution>
         </executions>
       </plugin>
-      <plugin>
-        <groupId>org.apache.maven.plugins</groupId>
-        <artifactId>maven-site-plugin</artifactId>
-	<version>2.1.1</version>
-      </plugin>
-      <plugin>
-	<groupId>org.codehaus.mojo.webstart</groupId>
-	<artifactId>webstart-maven-plugin</artifactId>
-	<version>1.0-beta-1</version>
-	<executions>
-	  <execution>
-            <goals>
-              <goal>jnlp</goal>
-            </goals>
-          </execution>
-	</executions>
-	<configuration>
-	  <excludeTransitive>false</excludeTransitive>
-          <jnlp>
-	    <inputTemplate>src/main/jnlp/template.vm</inputTemplate> 
-            <outputFile>geneaquilt.jnlp</outputFile>
-	    <mainClass>geneaquilt.GeneaQuilt</mainClass>
-          </jnlp>
-	  <sign>
-            <keypass>secret</keypass>  <!--${keypass} -->
-            <storepass>secret</storepass> <!-- ${storepass} -->
-            <alias>geneaquilt</alias>
-
-            <dnameCn>Jean-DAniel Fekete</dnameCn>
-            <dnameOu>AVIZ</dnameOu>
-            <dnameO>INRIA</dnameO>
-            <dnameL>Orsay</dnameL>
-            <!--dnameSt>fillme</dnameSt-->
-            <dnameC>FR</dnameC>
-
-            <verify>false</verify>
-
-          </sign>
-	  <verbose>false</verbose>
-	</configuration>
-      </plugin>
        <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-shade-plugin</artifactId>
@@ -252,13 +211,6 @@
 	</executions>
       </plugin>
     </plugins>
-    <extensions>
-      <extension>
-        <groupId>org.apache.maven.wagon</groupId>
-        <artifactId>wagon-ssh</artifactId>
-        <version>2.6</version>
-      </extension>
-    </extensions>
   </build>
   <reporting>
     <plugins>
