@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<project name="infovis">
+  <bannerLeft>
+    <name>GeneaQuilt</name>
+<!--    <src>http://geneaquilt.gforge.inria.fr/images/apache-maven-project.png</src> -->
+    <href>http://genequilt.gforge.inria.fr/</href>
+  </bannerLeft>
+  <publishDate position="right"/>
+  <version position="right"/>
+  <skin>
+    <groupId>org.apache.maven.skins</groupId>
+    <artifactId>maven-classic-skin</artifactId>
+    <version>1.0</version>
+  </skin>
+  
+  <poweredBy>
+    <logo name="Maven" href="http://maven.apache.org/"
+          img="http://maven.apache.org/images/logos/maven-feather.png"/>
+  </poweredBy>
+<!-- <bannerRight> -->
+  <!--   <src>http://maven.apache.org/images/maven-small.gif</src> -->
+  <!-- </bannerRight> -->
+  <body>
+<!--
+    <links>
+      <item name="The InfoVis Toolkit" href="http://ivtk.sf.net/"/>
+      <item name="AVIZ" href="http://www.aviz.fr/" />
+      <item name="INRIA" href="http://www.inria.fr/" />
+    </links>
+
+    <menu name="The InfoVis Toolkit">
+      <item name="Introduction" href="index.html"/>
+      <item name="Goals" href="goals.html"/>
+      <item name="Download" href="download.html"/>
+      <item name="Release Notes" href="release-notes.html" />
+      <item name="General Information" href="about.html"/>
+      <item name="Road Map" href="roadmap.html" />
+    </menu>
+-->
+    <menu ref="reports"/>
+  </body>
+</project>

@@ -1,0 +1,167 @@
+0 HEAD
+  1 SOUR TextPad / roèno
+    2 VERS 4.7.2 Windows
+    2 DATE 6 OCT 2004
+    2 AUTH Vladimir Batagelj
+    2 FILE http://vlado.fmf.uni-lj.si/pub/networks/pajek/data/
+  1 DATE  6 Oct 2004
+  1 CHAR ASCII
+  1 FILE druzina.GED
+0 @I1@ INDI
+  1 NAME jaz
+  1 SEX  M
+  1 BIRT
+    2 DATE   1945
+  1 FAMS @F1@
+  1 FAMC @F2@
+0 @I2@ INDI
+  1 NAME žena
+  1 SEX  F
+  1 BIRT
+    2 DATE   1946
+  1 FAMS @F1@
+0 @I3@ INDI
+  1 NAME oèe
+  1 SEX  M
+  1 BIRT
+    2 DATE   1915
+  1 DEAT
+    2 DATE   1980
+  1 FAMS @F2@
+  1 FAMS @F5@
+  1 FAMC @F3@
+0 @I4@ INDI
+  1 NAME mati
+  1 SEX  F
+  1 BIRT
+    2 DATE   1920
+  1 FAMS @F2@
+  1 FAMC @F4@
+0 @I5@ INDI
+  1 NAME sestra
+  1 SEX  F
+  1 BIRT
+    2 DATE   1950
+  1 FAMC @F2@
+0 @I6@ INDI
+  1 NAME brat
+  1 SEX  M
+  1 BIRT
+    2 DATE   1948
+  1 FAMC @F2@
+  1 FAMS @F8@
+0 @I7@ INDI
+  1 NAME sin
+  1 SEX  M
+  1 BIRT
+    2 DATE   1970
+  1 FAMS @F7@
+  1 FAMC @F1@
+0 @I8@ INDI
+  1 NAME hèerka
+  1 SEX  F
+  1 BIRT
+    2 DATE   1973
+  1 FAMS @F6@
+  1 FAMC @F1@
+0 @I9@ INDI
+  1 NAME ded po oèetu
+  1 SEX  M
+  1 BIRT
+    2 DATE   1894
+  1 DEAT
+    2 DATE   1954
+  1 FAMS @F3@
+0 @I10@ INDI
+  1 NAME babica po oèetu
+  1 SEX  F
+  1 BIRT
+    2 DATE   1897
+  1 DEAT
+    2 DATE   1972
+  1 FAMS @F3@
+0 @I11@ INDI
+  1 NAME ded po materi
+  1 SEX  M
+  1 BIRT
+    2 DATE   1890
+  1 DEAT
+    2 DATE   1962
+  1 FAMS @F4@
+0 @I12@ INDI
+  1 NAME babica po materi
+  1 SEX  F
+  1 BIRT
+    2 DATE   1895
+  1 DEAT
+    2 DATE   1987
+  1 FAMS @F4@
+0 @I13@ INDI
+  1 NAME maèeha
+  1 SEX  F
+  1 BIRT
+    2 DATE   1930
+  1 FAMS @F5@
+0 @I14@ INDI
+  1 NAME zet
+  1 SEX  M
+  1 BIRT
+    2 DATE   1968
+  1 FAMS @F6@
+0 @I15@ INDI
+  1 NAME snaha
+  1 SEX  F
+  1 BIRT
+    2 DATE   1972
+  1 FAMS @F7@
+0 @I16@ INDI
+  1 NAME svakinja
+  1 SEX  F
+  1 BIRT
+    2 DATE   1950
+  1 FAMS @F8@
+0 @I17@ INDI
+  1 NAME vnuk
+  1 SEX  M
+  1 BIRT
+    2 DATE   1992
+  1 FAMC @F7@
+0 @F1@ FAM
+  1 MARR
+    2 DATE   1969
+  1 HUSB @I1@
+  1 WIFE @I2@
+  1 CHIL @I7@
+  1 CHIL @I8@
+0 @F2@ FAM
+  1 MARR
+    2 DATE   1945
+  1 DIV
+    2 DATE   1960
+  1 HUSB @I3@
+  1 WIFE @I4@
+  1 CHIL @I5@
+  1 CHIL @I1@
+  1 CHIL @I6@
+0 @F3@ FAM
+  1 HUSB @I9@
+  1 WIFE @I10@
+  1 CHIL @I3@
+0 @F4@ FAM
+  1 HUSB @I11@
+  1 WIFE @I12@
+  1 CHIL @I4@
+0 @F5@ FAM
+  1 HUSB @I3@
+  1 WIFE @I13@
+0 @F6@ FAM
+  1 HUSB @I14@
+  1 WIFE @I8@
+0 @F7@ FAM
+  1 HUSB @I7@
+  1 WIFE @I15@
+  1 CHIL @I17@
+0 @F8@ FAM
+  1 HUSB @I6@
+  1 WIFE @I16@
+0 TRLR

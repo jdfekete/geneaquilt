@@ -1,0 +1,171 @@
+0 HEAD
+1 SOUR GRAMPS
+2 VERS 2.2.6-1
+2 NAME GRAMPS
+1 DEST GEDCOM 5.5
+1 DATE 9 MAR 2007
+1 CHAR UTF-8
+1 SUBM @SUBM@
+1 FILE /home/bodon/dok/gramps_data/Untitled_1.ged
+1 COPR Copyright (c) 2007 .
+1 GEDC
+2 VERS 5.5
+2 FORM LINEAGE-LINKED
+0 @SUBM@ SUBM
+1 NAME Not Provided
+1 ADDR Not Provided
+2 CONT Not Provided
+0 @Abraham_Simpson@ INDI
+1 NAME Abraham /Simpson/
+2 GIVN Abraham
+2 SURN Simpson
+1 SEX M
+1 FAMS @F0002@
+1 CHAN
+2 DATE 11 FEB 2007
+3 TIME 15:05:36
+0 @Bart_Simpson@ INDI
+1 NAME Bart /Simpson/
+2 GIVN Bart
+2 SURN Simpson
+1 SEX M
+1 FAMC @F0000@
+1 OBJE
+2 FORM URL
+2 FILE http://en.wikipedia.org/wiki/Bart_Simpson
+1 CHAN
+2 DATE 11 FEB 2007
+3 TIME 15:04:14
+0 @Clancy_Bouvier@ INDI
+1 NAME Clancy /Bouvier/
+2 GIVN Clancy
+2 SURN Bouvier
+1 SEX M
+1 FAMS @F0003@
+1 CHAN
+2 DATE 11 FEB 2007
+3 TIME 15:13:45
+0 @Homer_Simpson@ INDI
+1 NAME Homer /Simpson/
+2 GIVN Homer
+2 SURN Simpson
+1 SEX M
+1 FAMC @F0002@
+1 FAMS @F0000@
+1 OBJE
+2 FORM URL
+2 FILE http://en.wikipedia.org/wiki/Homer_Simpson
+1 OBJE
+2 FORM URL
+2 FILE safety.officer@springfieldnuclear.com
+1 CHAN
+2 DATE 11 FEB 2007
+3 TIME 15:05:36
+0 @Jacqueline_Bouvier@ INDI
+1 NAME Jacqueline /Bouvier/
+2 GIVN Jacqueline
+2 SURN Bouvier
+1 SEX F
+1 FAMS @F0003@
+1 CHAN
+2 DATE 11 FEB 2007
+3 TIME 15:13:45
+0 @Lisa_Simpson@ INDI
+1 NAME Lisa /Simpson/
+2 GIVN Lisa
+2 SURN Simpson
+1 SEX F
+1 FAMC @F0000@
+1 OBJE
+2 FORM URL
+2 FILE lisa@springfieldhigh.edu
+1 CHAN
+2 DATE 11 FEB 2007
+3 TIME 15:04:14
+0 @Maggie_Simpson@ INDI
+1 NAME Maggie /Simpson/
+2 GIVN Maggie
+2 SURN Simpson
+1 SEX F
+1 FAMC @F0000@
+1 OBJE
+2 FORM URL
+2 FILE http://en.wikipedia.org/wiki/Maggie_Simpson
+1 CHAN
+2 DATE 11 FEB 2007
+3 TIME 15:04:14
+0 @Marge_Simpson@ INDI
+1 NAME Marge /Simpson/
+2 GIVN Marge
+2 SURN Simpson
+1 SEX F
+1 FAMC @F0003@
+1 FAMS @F0000@
+1 OBJE
+2 FORM URL
+2 FILE http://en.wikipedia.org/wiki/Marge_Simpson
+1 CHAN
+2 DATE 11 FEB 2007
+3 TIME 15:13:45
+0 @Mona_Simpson@ INDI
+1 NAME Mona /Simpson/
+2 GIVN Mona
+2 SURN Simpson
+1 SEX F
+1 FAMS @F0002@
+1 CHAN
+2 DATE 11 FEB 2007
+3 TIME 15:05:36
+0 @Patty_Bouvier@ INDI
+1 NAME Patty /Bouvier/
+2 GIVN Patty
+2 SURN Bouvier
+1 SEX F
+1 FAMC @F0003@
+1 OBJE
+2 FORM URL
+2 FILE http://en.wikipedia.org/wiki/Patty_and_Selma_Bouvier
+1 CHAN
+2 DATE 11 FEB 2007
+3 TIME 15:13:45
+0 @Selma_Bouvier@ INDI
+1 NAME Selma /Bouvier/
+2 GIVN Selma
+2 SURN Bouvier
+1 SEX F
+1 FAMC @F0003@
+1 OBJE
+2 FORM URL
+2 FILE http://en.wikipedia.org/wiki/Patty_and_Selma_Bouvier
+1 CHAN
+2 DATE 11 FEB 2007
+3 TIME 15:13:45
+0 @F0000@ FAM
+1 REFN 0
+1 HUSB @Homer_Simpson@
+1 WIFE @Marge_Simpson@
+1 CHIL @Bart_Simpson@
+1 CHIL @Maggie_Simpson@
+1 CHIL @Lisa_Simpson@
+1 CHAN
+2 DATE 11 FEB 2007
+3 TIME 15:04:14
+0 @F0002@ FAM
+1 REFN 2
+1 HUSB @Abraham_Simpson@
+1 WIFE @Mona_Simpson@
+1 CHIL @Homer_Simpson@
+1 CHAN
+2 DATE 11 FEB 2007
+3 TIME 15:05:36
+0 @F0003@ FAM
+1 REFN 3
+1 HUSB @Clancy_Bouvier@
+1 WIFE @Jacqueline_Bouvier@
+1 CHIL @Patty_Bouvier@
+1 CHIL @Selma_Bouvier@
+1 CHIL @Marge_Simpson@
+1 CHAN
+2 DATE 11 FEB 2007
+3 TIME 15:13:45
+0 TRLR

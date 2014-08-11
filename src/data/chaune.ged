@@ -1,0 +1,198 @@
+0 HEAD
+1 SOUR GenoPro
+2 NAME GenoPro(R) - Picture Your Family Tree!(TM)
+2 VERS 1.90c
+2 CORP GenoPro Inc.
+2 ADDR http://www.genopro.com
+1 DATE 11 SEP 2004
+1 CHAR ANSEL
+1 GEDC
+2 VERS 5.5
+2 FORM LINAGE-LINKED
+0 @I1@ INDI
+1 NAME Bertran /de Chaune/
+1 SEX M
+1 FAMS @F1@
+0 @I2@ INDI
+1 NAME Bertranne /Hucet/
+1 SEX F
+1 FAMS @F1@
+0 @I3@ INDI
+1 NAME Alain /de Chaune/
+1 SEX M
+1 FAMS @F2@
+1 FAMC @F1@
+0 @I4@ INDI
+1 NAME Jehanne /de Mauhugeon/
+1 SEX F
+1 FAMS @F2@
+0 @I5@ INDI
+1 NAME Michelle /de Chaune/
+1 SEX F
+1 FAMS @F3@
+1 FAMS @F4@
+1 FAMC @F2@
+0 @I6@ INDI
+1 NAME Ector /Gerard/
+1 SEX M
+1 FAMS @F3@
+1 DEAT
+0 @I7@ INDI
+1 NAME Jeanne /Gerard/
+1 SEX F
+1 FAMC @F3@
+0 @I8@ INDI
+1 NAME Claude /de Mauhugeon/
+1 SEX M
+1 FAMS @F4@
+1 FAMC @F5@
+0 @I9@ INDI
+1 NAME Marie /Brochereul/
+1 SEX F
+1 FAMS @F5@
+1 FAMC @F8@
+0 @I10@ INDI
+1 NAME Jacques /de Mauhugeon/
+1 SEX M
+1 FAMS @F5@
+1 FAMC @F6@
+0 @I11@ INDI
+1 NAME Pierre /de Mauhugeon/
+1 SEX M
+1 FAMC @F5@
+0 @I12@ INDI
+1 NAME  //
+1 SEX F
+1 FAMS @F6@
+0 @I13@ INDI
+1 NAME ? /de Mauhugeon/
+1 SEX M
+1 FAMS @F6@
+0 @I14@ INDI
+1 NAME Jullienne /de Mauhugeon/
+1 SEX F
+1 FAMS @F7@
+1 FAMC @F6@
+0 @I15@ INDI
+1 NAME Amaury /Le Tallandier/
+1 SEX M
+1 FAMS @F7@
+0 @I16@ INDI
+1 NAME Amaurye /du Bouays/
+1 SEX F
+1 FAMS @F8@
+1 FAMC @F9@
+0 @I17@ INDI
+1 NAME ? /Brochereul/
+1 SEX M
+1 FAMS @F8@
+0 @I18@ INDI
+1 NAME  //
+1 SEX F
+1 FAMS @F9@
+0 @I19@ INDI
+1 NAME ? /du Bouays/
+1 SEX M
+1 FAMS @F9@
+0 @I20@ INDI
+1 NAME Guyon /de Chaune/
+1 SEX M
+1 FAMS @F10@
+1 FAMC @F1@
+0 @I21@ INDI
+1 NAME Olive /Bouescel/
+1 SEX F
+1 FAMS @F10@
+0 @I22@ INDI
+1 NAME Franðcois /de Chaune/
+1 SEX M
+1 FAMC @F10@
+0 @I23@ INDI
+1 NAME Olivier /Brochereul/
+1 SEX M
+1 FAMS @F11@
+0 @I24@ INDI
+1 NAME  //
+1 SEX F
+1 FAMS @F11@
+0 @I25@ INDI
+1 NAME Errard /Brochereul/
+1 SEX M
+1 FAMC @F11@
+0 @I26@ INDI
+1 NAME Arture /Brochereul/
+1 SEX F
+1 FAMS @F12@
+1 FAMC @F11@
+0 @I27@ INDI
+1 NAME Thebault /Megon/
+1 SEX M
+1 FAMS @F12@
+0 @I28@ INDI
+1 NAME Jehan /du Bouays/
+1 SEX M
+1 FAMS @F13@
+1 FAMC @F9@
+0 @I29@ INDI
+1 NAME  //
+1 SEX F
+1 FAMS @F13@
+0 @I30@ INDI
+1 NAME Jehan /du Bouays/
+1 SEX M
+1 FAMC @F13@
+0 @F1@ FAM
+1 HUSB @I1@
+1 WIFE @I2@
+1 CHIL @I3@
+1 CHIL @I20@
+0 @F2@ FAM
+1 HUSB @I3@
+1 WIFE @I4@
+1 CHIL @I5@
+0 @F3@ FAM
+1 HUSB @I6@
+1 WIFE @I5@
+1 CHIL @I7@
+0 @F4@ FAM
+1 HUSB @I8@
+1 WIFE @I5@
+0 @F5@ FAM
+1 HUSB @I10@
+1 WIFE @I9@
+1 CHIL @I8@
+1 CHIL @I11@
+0 @F6@ FAM
+1 HUSB @I13@
+1 WIFE @I12@
+1 CHIL @I14@
+1 CHIL @I10@
+0 @F7@ FAM
+1 HUSB @I15@
+1 WIFE @I14@
+0 @F8@ FAM
+1 HUSB @I17@
+1 WIFE @I16@
+1 CHIL @I9@
+0 @F9@ FAM
+1 HUSB @I19@
+1 WIFE @I18@
+1 CHIL @I16@
+1 CHIL @I28@
+0 @F10@ FAM
+1 HUSB @I20@
+1 WIFE @I21@
+1 CHIL @I22@
+0 @F11@ FAM
+1 HUSB @I23@
+1 WIFE @I24@
+1 CHIL @I25@
+1 CHIL @I26@
+0 @F12@ FAM
+1 HUSB @I27@
+1 WIFE @I26@
+0 @F13@ FAM
+1 HUSB @I28@
+1 WIFE @I29@
+1 CHIL @I30@
+0 TRLR

@@ -1,0 +1,504 @@
+0 HEAD
+1 SOUR GenoPro
+2 NAME GenoPro(R) - Picture Your Family Tree!(TM)
+2 VERS 1.90c
+2 CORP GenoPro Inc.
+2 ADDR http://www.genopro.com
+1 DATE 1 FEB 2006
+1 CHAR ANSEL
+1 GEDC
+2 VERS 5.5
+2 FORM LINAGE-LINKED
+0 @I1@ INDI
+1 NAME Diego Fernandez /Despinose/
+1 SEX M
+1 FAMS @F1@
+0 @I2@ INDI
+1 NAME Gracienne /de Burgos/
+1 SEX F
+1 FAMS @F1@
+0 @I3@ INDI
+1 NAME Gracien /Despinose/
+1 SEX M
+1 FAMS @F2@
+1 FAMC @F1@
+0 @I4@ INDI
+1 NAME Gracienne /de Mirande/
+1 SEX F
+1 FAMS @F2@
+0 @I5@ INDI
+1 NAME Antoine /de Mirande/
+1 SEX M
+1 FAMS @F26@
+1 FAMC @F2@
+1 DEAT
+2 DATE 1560
+2 NOTE A Nantes
+0 @I6@ INDI
+1 NAME Bernardin /Despinose/
+1 SEX M
+1 FAMS @F3@
+1 FAMC @F2@
+1 DEAT
+2 DATE 1542
+0 @I7@ INDI
+1 NAME Fernandez /Despinose/
+1 SEX M
+1 FAMS @F4@
+1 FAMC @F2@
+0 @I8@ INDI
+1 NAME Jeanne /Le Moyne/
+1 SEX F
+1 FAMS @F3@
+0 @I9@ INDI
+1 NAME Agnáes /de La Torre/
+1 SEX F
+1 FAMS @F4@
+0 @I10@ INDI
+1 NAME Pierre /Despinose dit l'aãinâe/
+1 SEX M
+1 FAMS @F5@
+1 FAMC @F4@
+1 DEAT
+2 DATE 1552
+2 NOTE En Espagne
+0 @I11@ INDI
+1 NAME Fernandez /Despinose/
+1 SEX M
+1 FAMC @F4@
+0 @I12@ INDI
+1 NAME Martine /de Billy/
+1 SEX F
+1 FAMS @F5@
+0 @I13@ INDI
+1 NAME Jacques /Despinose/
+1 SEX M
+1 FAMS @F9@
+1 FAMC @F5@
+1 BIRT
+2 DATE 1532
+1 DEAT
+2 DATE 1582
+2 NOTE A Nantes
+0 @I14@ INDI
+1 NAME Jeanne /Despinose/
+1 SEX F
+1 FAMS @F8@
+1 FAMC @F5@
+1 BIRT
+2 DATE 1522
+0 @I15@ INDI
+1 NAME Catherine /Despinose/
+1 SEX F
+1 FAMS @F6@
+1 FAMC @F5@
+0 @I16@ INDI
+1 NAME Franðcois /d'Hâerâedie/
+1 SEX M
+1 FAMS @F6@
+1 FAMC @F7@
+0 @I17@ INDI
+1 NAME Marie /de Guinyel/
+1 SEX F
+1 FAMS @F7@
+0 @I18@ INDI
+1 NAME Francois /d'Hâerâedie/
+1 SEX M
+1 FAMS @F7@
+0 @I19@ INDI
+1 NAME Guillaume /Poullain/
+1 SEX M
+1 FAMS @F8@
+0 @I20@ INDI
+1 NAME Franðcoise /d'Arragon/
+1 SEX F
+1 FAMS @F9@
+1 FAMC @F10@
+0 @I21@ INDI
+1 NAME ? /?/
+1 SEX F
+1 FAMS @F10@
+0 @I22@ INDI
+1 NAME Andrâe /d'Arragon/
+1 SEX M
+1 FAMS @F10@
+0 @I23@ INDI
+1 NAME Pierre /Despinose/
+1 SEX M
+1 FAMS @F16@
+1 FAMC @F9@
+1 DEAT
+2 DATE 1648
+2 NOTE A Nantes
+0 @I24@ INDI
+1 NAME Jacques /Despinose/
+1 SEX M
+1 FAMS @F11@
+1 FAMS @F12@
+1 FAMS @F14@
+1 FAMC @F9@
+0 @I25@ INDI
+1 NAME Esther /Bidâe/
+1 SEX F
+1 FAMS @F11@
+1 DEAT
+2 DATE 1612
+0 @I26@ INDI
+1 NAME Isabelle /Despinose/
+1 SEX F
+1 FAMC @F11@
+0 @I27@ INDI
+1 NAME Pierre /Despinose/
+1 SEX M
+1 FAMC @F11@
+0 @I28@ INDI
+1 NAME Anne /Despinose/
+1 SEX F
+1 FAMC @F11@
+0 @I29@ INDI
+1 NAME Franðcoise /Despinose/
+1 SEX F
+1 FAMC @F11@
+0 @I30@ INDI
+1 NAME Marguerite /de Santo Domingo/
+1 SEX F
+1 FAMS @F12@
+1 FAMC @F13@
+1 DEAT
+2 DATE 1615
+0 @I31@ INDI
+1 NAME Jeanne /de Marques/
+1 SEX F
+1 FAMS @F13@
+0 @I32@ INDI
+1 NAME Jean /de Santo Domingo/
+1 SEX M
+1 FAMS @F13@
+0 @I33@ INDI
+1 NAME Jeanne /Châereau/
+1 SEX F
+1 FAMS @F14@
+1 FAMC @F15@
+0 @I34@ INDI
+1 NAME Jeanne /Garreau/
+1 SEX F
+1 FAMS @F15@
+0 @I35@ INDI
+1 NAME Jacques /Châereau, greffier/
+1 SEX M
+1 FAMS @F15@
+0 @I36@ INDI
+1 NAME Jeanne /Despinose/
+1 SEX F
+1 FAMC @F14@
+1 BIRT
+2 DATE 1625
+0 @I37@ INDI
+1 NAME Jean /Despinose/
+1 SEX M
+1 FAMC @F14@
+0 @I38@ INDI
+1 NAME Paul /Despinose/
+1 SEX M
+1 FAMC @F14@
+0 @I39@ INDI
+1 NAME Jacques /Despinose/
+1 SEX M
+1 FAMC @F14@
+0 @I40@ INDI
+1 NAME Anne /Garreau/
+1 SEX F
+1 FAMS @F16@
+0 @I41@ INDI
+1 NAME Louise /Despinose/
+1 SEX F
+1 FAMS @F17@
+1 FAMC @F3@
+1 BIRT
+2 DATE 1505
+0 @I42@ INDI
+1 NAME Catherine /Despinose/
+1 SEX F
+1 FAMS @F20@
+1 FAMC @F3@
+1 DEAT
+2 DATE 1556
+0 @I43@ INDI
+1 NAME Marie /Despinose/
+1 SEX F
+1 FAMS @F19@
+1 FAMC @F3@
+1 BIRT
+2 DATE 1523
+0 @I44@ INDI
+1 NAME Jeanne /Despinose/
+1 SEX F
+1 FAMS @F18@
+1 FAMC @F3@
+1 BIRT
+2 DATE 1516
+0 @I45@ INDI
+1 NAME Pierre /Despinose dit le jeune/
+1 SEX M
+1 FAMS @F21@
+1 FAMC @F3@
+0 @I46@ INDI
+1 NAME Gilles /Bricaud/
+1 SEX M
+1 FAMS @F17@
+0 @I47@ INDI
+1 NAME Mathurin  /Vivien/
+1 SEX M
+1 FAMS @F18@
+0 @I48@ INDI
+1 NAME Jean /Moteil/
+1 SEX M
+1 FAMS @F19@
+0 @I49@ INDI
+1 NAME Pierre /de la Presse/
+1 SEX M
+1 FAMS @F20@
+0 @I50@ INDI
+1 NAME Marguerite /Poullain/
+1 SEX F
+1 FAMS @F21@
+0 @I51@ INDI
+1 NAME Marguerite /Despinose/
+1 SEX F
+1 FAMS @F22@
+1 FAMC @F21@
+1 BIRT
+2 DATE 1566
+1 DEAT
+2 DATE 1651
+0 @I52@ INDI
+1 NAME Bernardin /Despinose/
+1 SEX M
+1 FAMS @F24@
+1 FAMC @F21@
+1 BIRT
+2 DATE 1560
+1 DEAT
+2 DATE 1635
+0 @I53@ INDI
+1 NAME Pierre /Richerot, avocat/
+1 SEX M
+1 FAMS @F22@
+0 @I54@ INDI
+1 NAME Jeanne /Richerot/
+1 SEX F
+1 FAMS @F23@
+1 FAMC @F22@
+0 @I55@ INDI
+1 NAME Louis /Le Peignâe/
+1 SEX M
+1 FAMS @F23@
+0 @I56@ INDI
+1 NAME Jeanne /Le Lou/
+1 SEX F
+1 FAMS @F24@
+1 FAMC @F25@
+0 @I57@ INDI
+1 NAME Jeanne /Rocas/
+1 SEX F
+1 FAMS @F25@
+0 @I58@ INDI
+1 NAME Michel /Le Lou, sr du Breil/
+1 SEX M
+1 FAMS @F25@
+0 @I59@ INDI
+1 NAME Pierre /Despinose/
+1 SEX M
+1 FAMC @F24@
+0 @I60@ INDI
+1 NAME Michel /Despinose/
+1 SEX M
+1 FAMC @F24@
+0 @I61@ INDI
+1 NAME ? /?/
+1 SEX F
+1 FAMS @F26@
+0 @I62@ INDI
+1 NAME Antoine /de Mirande/
+1 SEX M
+1 FAMS @F27@
+1 FAMC @F26@
+1 DEAT
+2 DATE 1565
+0 @I63@ INDI
+1 NAME Barthâelâemy /de Mirande/
+1 SEX M
+1 FAMC @F26@
+0 @I64@ INDI
+1 NAME Marie /du Val/
+1 SEX F
+1 FAMS @F27@
+0 @I65@ INDI
+1 NAME Antoine /de Mirande/
+1 SEX M
+1 FAMS @F30@
+1 FAMC @F27@
+0 @I66@ INDI
+1 NAME Fernando /de Mirande/
+1 SEX M
+1 FAMS @F29@
+1 FAMC @F27@
+0 @I67@ INDI
+1 NAME Louise /de Mirande/
+1 SEX F
+1 FAMS @F28@
+1 FAMC @F27@
+0 @I68@ INDI
+1 NAME Antoine /de Brenezay/
+1 SEX M
+1 FAMS @F28@
+0 @I69@ INDI
+1 NAME Franðcoise /d'Arragon/
+1 SEX F
+1 FAMS @F29@
+0 @I70@ INDI
+1 NAME Gracienne /d'Aragon/
+1 SEX F
+1 FAMS @F30@
+0 @F1@ FAM
+1 HUSB @I1@
+1 WIFE @I2@
+1 CHIL @I3@
+0 @F2@ FAM
+1 HUSB @I3@
+1 WIFE @I4@
+1 CHIL @I5@
+1 CHIL @I7@
+1 CHIL @I6@
+0 @F3@ FAM
+1 MARR
+2 DATE 1502
+1 HUSB @I6@
+1 WIFE @I8@
+1 CHIL @I41@
+1 CHIL @I45@
+1 CHIL @I44@
+1 CHIL @I43@
+1 CHIL @I42@
+0 @F4@ FAM
+1 HUSB @I7@
+1 WIFE @I9@
+1 CHIL @I11@
+1 CHIL @I10@
+0 @F5@ FAM
+1 HUSB @I10@
+1 WIFE @I12@
+1 CHIL @I15@
+1 CHIL @I14@
+1 CHIL @I13@
+0 @F6@ FAM
+1 HUSB @I16@
+1 WIFE @I15@
+0 @F7@ FAM
+1 HUSB @I18@
+1 WIFE @I17@
+1 CHIL @I16@
+0 @F8@ FAM
+1 HUSB @I19@
+1 WIFE @I14@
+0 @F9@ FAM
+1 HUSB @I13@
+1 WIFE @I20@
+1 CHIL @I24@
+1 CHIL @I23@
+0 @F10@ FAM
+1 HUSB @I22@
+1 WIFE @I21@
+1 CHIL @I20@
+0 @F11@ FAM
+1 HUSB @I24@
+1 WIFE @I25@
+1 CHIL @I29@
+1 CHIL @I28@
+1 CHIL @I27@
+1 CHIL @I26@
+0 @F12@ FAM
+1 HUSB @I24@
+1 WIFE @I30@
+0 @F13@ FAM
+1 HUSB @I32@
+1 WIFE @I31@
+1 CHIL @I30@
+0 @F14@ FAM
+1 HUSB @I24@
+1 WIFE @I33@
+1 CHIL @I39@
+1 CHIL @I38@
+1 CHIL @I37@
+1 CHIL @I36@
+0 @F15@ FAM
+1 HUSB @I35@
+1 WIFE @I34@
+1 CHIL @I33@
+0 @F16@ FAM
+1 MARR
+2 DATE 1595
+1 HUSB @I23@
+1 WIFE @I40@
+0 @F17@ FAM
+1 HUSB @I46@
+1 WIFE @I41@
+0 @F18@ FAM
+1 MARR
+2 DATE 1535
+1 HUSB @I47@
+1 WIFE @I44@
+0 @F19@ FAM
+1 MARR
+2 DATE 1523
+1 HUSB @I48@
+1 WIFE @I43@
+0 @F20@ FAM
+1 HUSB @I49@
+1 WIFE @I42@
+0 @F21@ FAM
+1 HUSB @I45@
+1 WIFE @I50@
+1 CHIL @I52@
+1 CHIL @I51@
+0 @F22@ FAM
+1 MARR
+2 DATE 1587
+1 HUSB @I53@
+1 WIFE @I51@
+1 CHIL @I54@
+0 @F23@ FAM
+1 HUSB @I55@
+1 WIFE @I54@
+0 @F24@ FAM
+1 MARR
+2 DATE 1586
+1 HUSB @I52@
+1 WIFE @I56@
+1 CHIL @I60@
+1 CHIL @I59@
+0 @F25@ FAM
+1 HUSB @I58@
+1 WIFE @I57@
+1 CHIL @I56@
+0 @F26@ FAM
+1 HUSB @I5@
+1 WIFE @I61@
+1 CHIL @I63@
+1 CHIL @I62@
+0 @F27@ FAM
+1 HUSB @I62@
+1 WIFE @I64@
+1 CHIL @I67@
+1 CHIL @I66@
+1 CHIL @I65@
+0 @F28@ FAM
+1 HUSB @I68@
+1 WIFE @I67@
+0 @F29@ FAM
+1 HUSB @I66@
+1 WIFE @I69@
+0 @F30@ FAM
+1 HUSB @I65@
+1 WIFE @I70@
+0 TRLR

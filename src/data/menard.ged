@@ -1,0 +1,859 @@
+0 HEAD
+1 SOUR GenoPro
+2 NAME GenoPro(R) - Picture Your Family Tree!(TM)
+2 VERS 1.90c
+2 CORP GenoPro Inc.
+2 ADDR http://www.genopro.com
+1 DATE 29 APR 2005
+1 CHAR ANSEL
+1 GEDC
+2 VERS 5.5
+2 FORM LINAGE-LINKED
+0 @I1@ INDI
+1 NAME Pierre /Menard/
+1 SEX M
+1 FAMS @F1@
+0 @I2@ INDI
+1 NAME Renâee /Poitevin/
+1 SEX F
+1 FAMS @F1@
+0 @I3@ INDI
+1 NAME Pierre /Menard/
+1 SEX M
+1 FAMS @F11@
+1 FAMS @F12@
+1 FAMC @F1@
+0 @I4@ INDI
+1 NAME Charles /Menard/
+1 SEX M
+1 FAMS @F2@
+1 FAMC @F1@
+0 @I5@ INDI
+1 NAME Marie /Guyau/
+1 SEX F
+1 FAMS @F2@
+1 FAMC @F3@
+0 @I6@ INDI
+1 NAME Renâee /Trolet/
+1 SEX F
+1 FAMS @F3@
+0 @I7@ INDI
+1 NAME Pierre /Guyau/
+1 SEX M
+1 FAMS @F3@
+0 @I8@ INDI
+1 NAME Renâee /Menard/
+1 SEX F
+1 FAMS @F4@
+1 FAMC @F1@
+0 @I9@ INDI
+1 NAME Estienne /Menard/
+1 SEX M
+1 FAMS @F33@
+1 FAMC @F1@
+0 @I10@ INDI
+1 NAME Claude /Menard/
+1 SEX M
+1 FAMS @F27@
+1 FAMC @F1@
+0 @I11@ INDI
+1 NAME Nicolas /Bascher, marchand de soie/
+1 SEX M
+1 FAMS @F4@
+0 @I12@ INDI
+1 NAME Agathe /Menard/
+1 SEX F
+1 FAMS @F5@
+1 FAMC @F1@
+0 @I13@ INDI
+1 NAME ? /Grandami/
+1 SEX M
+1 FAMS @F5@
+0 @I14@ INDI
+1 NAME Franðcoise /Menard/
+1 SEX F
+1 FAMS @F6@
+1 FAMC @F1@
+0 @I15@ INDI
+1 NAME Robert /Jollivet/
+1 SEX M
+1 FAMS @F6@
+0 @I16@ INDI
+1 NAME Claude /Menard/
+1 SEX F
+1 FAMS @F7@
+1 FAMC @F1@
+0 @I17@ INDI
+1 NAME Denis /de Charniáere/
+1 SEX M
+1 FAMS @F7@
+0 @I18@ INDI
+1 NAME Marie /Menard/
+1 SEX F
+1 FAMS @F8@
+1 FAMC @F1@
+0 @I19@ INDI
+1 NAME Pierre /Catroux/
+1 SEX M
+1 FAMS @F8@
+0 @I20@ INDI
+1 NAME Jacquine /Menard/
+1 SEX F
+1 FAMS @F9@
+1 FAMC @F1@
+0 @I21@ INDI
+1 NAME ? /Menard dit le Buffon/
+1 SEX M
+1 FAMS @F9@
+0 @I22@ INDI
+1 NAME Jacquine /Menard dit le Buffon/
+1 SEX F
+1 FAMS @F10@
+1 FAMC @F9@
+0 @I23@ INDI
+1 NAME ? /Robin/
+1 SEX M
+1 FAMS @F10@
+0 @I24@ INDI
+1 NAME Renâee /Robin/
+1 SEX F
+1 FAMC @F10@
+0 @I25@ INDI
+1 NAME Catherine /Ragot/
+1 SEX F
+1 FAMS @F11@
+1 DEAT
+0 @I26@ INDI
+1 NAME Franðcoise /Menard/
+1 SEX F
+1 FAMS @F19@
+1 FAMC @F11@
+0 @I27@ INDI
+1 NAME Catherine /Menard/
+1 SEX F
+1 FAMS @F13@
+1 FAMS @F14@
+1 FAMC @F11@
+0 @I28@ INDI
+1 NAME Marie /Pinot/
+1 SEX F
+1 FAMS @F12@
+0 @I29@ INDI
+1 NAME Anne /Menard/
+1 SEX F
+1 FAMS @F26@
+1 FAMC @F12@
+0 @I30@ INDI
+1 NAME Marie /Menard/
+1 SEX F
+1 FAMS @F23@
+1 FAMC @F12@
+0 @I31@ INDI
+1 NAME ? /Langlois/
+1 SEX M
+1 FAMS @F13@
+1 DEAT
+0 @I32@ INDI
+1 NAME Jeanne /Langlois/
+1 SEX F
+1 FAMS @F16@
+1 FAMC @F13@
+0 @I33@ INDI
+1 NAME Jean /Langlois, marchand de soie/
+1 SEX M
+1 FAMS @F17@
+1 FAMC @F13@
+0 @I34@ INDI
+1 NAME Catherine /Langlois/
+1 SEX F
+1 FAMS @F15@
+1 FAMC @F13@
+0 @I35@ INDI
+1 NAME ? /Langlois, religieux/
+1 SEX M
+1 FAMC @F13@
+0 @I36@ INDI
+1 NAME ? /Langlois, religieux/
+1 SEX M
+1 FAMC @F13@
+0 @I37@ INDI
+1 NAME ? /Boisgautier/
+1 SEX M
+1 FAMS @F14@
+0 @I38@ INDI
+1 NAME Anne /Boisgautier/
+1 SEX F
+1 FAMS @F18@
+1 FAMC @F14@
+0 @I39@ INDI
+1 NAME Jean /Bastonneau, marchand de soie/
+1 SEX M
+1 FAMS @F15@
+0 @I40@ INDI
+1 NAME Franðcois /Gautier, marchand de soie/
+1 SEX M
+1 FAMS @F16@
+0 @I41@ INDI
+1 NAME ? /?/
+1 SEX F
+1 FAMS @F17@
+0 @I42@ INDI
+1 NAME ? /?, marchand de soie/
+1 SEX M
+1 FAMS @F18@
+0 @I43@ INDI
+1 NAME Franðcois /Le Drouay/
+1 SEX M
+1 FAMS @F19@
+0 @I44@ INDI
+1 NAME Marie /Le Drouay/
+1 SEX F
+1 FAMS @F22@
+1 FAMC @F19@
+0 @I45@ INDI
+1 NAME Gabrielle /Le Drouay/
+1 SEX F
+1 FAMS @F21@
+1 FAMC @F19@
+0 @I46@ INDI
+1 NAME Perrine /Le Drouay/
+1 SEX F
+1 FAMS @F20@
+1 FAMC @F19@
+0 @I47@ INDI
+1 NAME Michel /Gautier/
+1 SEX M
+1 FAMS @F20@
+0 @I48@ INDI
+1 NAME ? /Sailland/
+1 SEX M
+1 FAMS @F21@
+0 @I49@ INDI
+1 NAME Yves /Mide/
+1 SEX M
+1 FAMS @F22@
+0 @I50@ INDI
+1 NAME Charles /Jamois/
+1 SEX M
+1 FAMS @F23@
+0 @I51@ INDI
+1 NAME Charles /Jamois, maitre chirurgien/
+1 SEX M
+1 FAMS @F25@
+1 FAMC @F23@
+0 @I52@ INDI
+1 NAME Renâee /Jamois/
+1 SEX F
+1 FAMS @F24@
+1 FAMC @F23@
+0 @I53@ INDI
+1 NAME Pierre /Bertran/
+1 SEX M
+1 FAMS @F24@
+0 @I54@ INDI
+1 NAME ? /?/
+1 SEX F
+1 FAMS @F25@
+0 @I55@ INDI
+1 NAME Jacques /Le Gay, notaire/
+1 SEX M
+1 FAMS @F26@
+0 @I56@ INDI
+1 NAME Antoine /Le Gay/
+1 SEX M
+1 FAMC @F26@
+0 @I57@ INDI
+1 NAME Louis /Le Gay/
+1 SEX M
+1 FAMC @F26@
+0 @I58@ INDI
+1 NAME Andrâe /Menard, chirurgien/
+1 SEX M
+1 FAMC @F2@
+0 @I59@ INDI
+1 NAME Pierre /Menard, ouvrier en soie/
+1 SEX M
+1 FAMC @F2@
+0 @I60@ INDI
+1 NAME ? /Menard/
+1 SEX M
+1 FAMC @F2@
+0 @I61@ INDI
+1 NAME Marie /Drouet/
+1 SEX F
+1 FAMS @F27@
+0 @I62@ INDI
+1 NAME Beatrix /Menard/
+1 SEX F
+1 FAMS @F32@
+1 FAMC @F27@
+0 @I63@ INDI
+1 NAME Claude /Menard/
+1 SEX F
+1 FAMS @F31@
+1 FAMC @F27@
+0 @I64@ INDI
+1 NAME Catherine /Menard/
+1 SEX F
+1 FAMS @F30@
+1 FAMC @F27@
+0 @I65@ INDI
+1 NAME Franðcois /Menard/
+1 SEX M
+1 FAMS @F28@
+1 FAMC @F27@
+0 @I66@ INDI
+1 NAME Franðcoise /Desbois/
+1 SEX F
+1 FAMS @F28@
+0 @I67@ INDI
+1 NAME ? /Menard/
+1 SEX F
+1 FAMS @F29@
+1 FAMC @F28@
+0 @I68@ INDI
+1 NAME Jacques /Collard, peintre/
+1 SEX M
+1 FAMS @F29@
+0 @I69@ INDI
+1 NAME Jean /Papon, marchand pelletier/
+1 SEX M
+1 FAMS @F30@
+0 @I70@ INDI
+1 NAME ? /Laroche, sergent/
+1 SEX M
+1 FAMS @F31@
+0 @I71@ INDI
+1 NAME ? /G?, sr de l'Estang/
+1 SEX M
+1 FAMS @F32@
+0 @I72@ INDI
+1 NAME ? /?/
+1 SEX F
+1 FAMS @F33@
+0 @I73@ INDI
+1 NAME Yvonne /Menard/
+1 SEX F
+1 FAMS @F34@
+1 FAMC @F33@
+0 @I74@ INDI
+1 NAME Jean /Girard, archer/
+1 SEX M
+1 FAMS @F34@
+0 @I75@ INDI
+1 NAME Marie /Girard/
+1 SEX F
+1 FAMS @F35@
+1 FAMC @F34@
+0 @I76@ INDI
+1 NAME Jean /Girard/
+1 SEX M
+1 FAMC @F34@
+0 @I77@ INDI
+1 NAME Renâe /Baudouin, chirurgien/
+1 SEX M
+1 FAMS @F35@
+0 @I78@ INDI
+1 NAME Renâe /Baudouin/
+1 SEX M
+1 FAMC @F35@
+0 @I79@ INDI
+1 NAME Renâee /Bascher/
+1 SEX F
+1 FAMS @F38@
+1 FAMC @F4@
+0 @I80@ INDI
+1 NAME Marie /Bascher/
+1 SEX F
+1 FAMS @F37@
+1 FAMC @F4@
+0 @I81@ INDI
+1 NAME Renâe /Bascher/
+1 SEX M
+1 FAMS @F36@
+1 FAMC @F4@
+0 @I82@ INDI
+1 NAME ? /?/
+1 SEX F
+1 FAMS @F36@
+0 @I83@ INDI
+1 NAME ? /Bascher/
+1 FAMC @F36@
+0 @I84@ INDI
+1 NAME ? /Garnison, marchand/
+1 SEX M
+1 FAMS @F37@
+0 @I85@ INDI
+1 NAME ? /Garnison/
+1 SEX M
+1 FAMC @F37@
+0 @I86@ INDI
+1 NAME ? /Garnison/
+1 SEX M
+1 FAMC @F37@
+0 @I87@ INDI
+1 NAME ? /Garnison/
+1 SEX M
+1 FAMC @F37@
+0 @I88@ INDI
+1 NAME ? /?/
+1 SEX M
+1 FAMS @F38@
+0 @I89@ INDI
+1 NAME ? /?/
+1 FAMC @F38@
+0 @I90@ INDI
+1 NAME Marguerite /Grandami/
+1 SEX F
+1 FAMC @F5@
+0 @I91@ INDI
+1 NAME Franðcois /Grandami, auditeur des comptes/
+1 SEX M
+1 FAMS @F39@
+1 FAMC @F5@
+0 @I92@ INDI
+1 NAME ? /?/
+1 SEX F
+1 FAMS @F39@
+0 @I93@ INDI
+1 NAME ? /Grandami/
+1 SEX M
+1 FAMC @F39@
+0 @I94@ INDI
+1 NAME ? /Grandami/
+1 SEX F
+1 FAMS @F40@
+1 FAMC @F39@
+0 @I95@ INDI
+1 NAME ? /?/
+1 SEX M
+1 FAMS @F40@
+0 @I96@ INDI
+1 NAME ? /?/
+1 FAMC @F40@
+0 @I97@ INDI
+1 NAME ? /?/
+1 FAMC @F40@
+0 @I98@ INDI
+1 NAME Claude /Jolivet/
+1 SEX F
+1 FAMS @F48@
+1 FAMC @F6@
+0 @I99@ INDI
+1 NAME Marguerite /Jolivet/
+1 SEX F
+1 FAMS @F47@
+1 FAMC @F6@
+0 @I100@ INDI
+1 NAME Jacquine /Jolivet/
+1 SEX F
+1 FAMS @F46@
+1 FAMC @F6@
+0 @I101@ INDI
+1 NAME Franðcoise /Jolivet/
+1 SEX F
+1 FAMS @F45@
+1 FAMC @F6@
+0 @I102@ INDI
+1 NAME Jean /Jollivet/
+1 SEX M
+1 FAMS @F41@
+1 FAMC @F6@
+0 @I103@ INDI
+1 NAME ? /?/
+1 SEX F
+1 FAMS @F41@
+0 @I104@ INDI
+1 NAME Jeanne /Jollivet/
+1 SEX F
+1 FAMS @F44@
+1 FAMC @F41@
+0 @I105@ INDI
+1 NAME Marguerite /Jollivet/
+1 SEX F
+1 FAMS @F43@
+1 FAMC @F41@
+0 @I106@ INDI
+1 NAME Franðcoise /Jollivet/
+1 SEX F
+1 FAMS @F42@
+1 FAMC @F41@
+0 @I107@ INDI
+1 NAME Pierre /Jollivet/
+1 SEX M
+1 FAMC @F41@
+0 @I108@ INDI
+1 NAME Robert /Jollivet/
+1 SEX M
+1 FAMC @F41@
+0 @I109@ INDI
+1 NAME Pierre /Soreau, marchand de drap de soie/
+1 SEX M
+1 FAMS @F42@
+0 @I110@ INDI
+1 NAME Jacques /Esturmy, marchand/
+1 SEX M
+1 FAMS @F43@
+0 @I111@ INDI
+1 NAME ? /Esturmy/
+1 FAMC @F43@
+0 @I112@ INDI
+1 NAME ? /Esturmy/
+1 FAMC @F43@
+0 @I113@ INDI
+1 NAME Jean /Hubert, marchand de drap/
+1 SEX M
+1 FAMS @F44@
+0 @I114@ INDI
+1 NAME ? /Hubert/
+1 FAMC @F44@
+0 @I115@ INDI
+1 NAME ? /Hubert/
+1 FAMC @F44@
+0 @I116@ INDI
+1 NAME ? /Hubert/
+1 FAMC @F44@
+0 @I117@ INDI
+1 NAME ? /Hubert/
+1 FAMC @F44@
+0 @I118@ INDI
+1 NAME ? /Hubert/
+1 FAMC @F44@
+0 @I119@ INDI
+1 NAME ? /Hubert/
+1 FAMC @F44@
+0 @I120@ INDI
+1 NAME ? /Hubert/
+1 FAMC @F44@
+0 @I121@ INDI
+1 NAME ? /Hubert/
+1 FAMC @F44@
+0 @I122@ INDI
+1 NAME Renâe /Serizier/
+1 SEX M
+1 FAMS @F45@
+0 @I123@ INDI
+1 NAME Pierre /Sureau, sennechal/
+1 SEX M
+1 FAMS @F46@
+0 @I124@ INDI
+1 NAME Pierre /Cherpentier, avocat/
+1 SEX M
+1 FAMS @F47@
+0 @I125@ INDI
+1 NAME Guillaume /Cherpentier, avocat/
+1 SEX M
+1 FAMC @F47@
+0 @I126@ INDI
+1 NAME Jean /Cherpentier, marchand/
+1 SEX M
+1 FAMC @F47@
+0 @I127@ INDI
+1 NAME Jean /Letourneur/
+1 SEX M
+1 FAMS @F48@
+0 @I128@ INDI
+1 NAME Claude /Letourneur/
+1 SEX F
+1 FAMS @F49@
+1 FAMC @F48@
+0 @I129@ INDI
+1 NAME Renâe /Letourneur, mâedecin/
+1 SEX M
+1 FAMC @F48@
+0 @I130@ INDI
+1 NAME ? /?, sieur de la Joussoliniáere/
+1 SEX M
+1 FAMS @F49@
+0 @I131@ INDI
+1 NAME Pierre /Letourneur/
+1 SEX M
+1 FAMS @F50@
+1 FAMC @F48@
+0 @I132@ INDI
+1 NAME Marie /Foyes/
+1 SEX F
+1 FAMS @F50@
+0 @I133@ INDI
+1 NAME ? /Letourneur/
+1 SEX F
+1 FAMC @F50@
+0 @I134@ INDI
+1 NAME Perrine /de Charniáere/
+1 SEX F
+1 FAMS @F53@
+1 FAMC @F7@
+0 @I135@ INDI
+1 NAME Ysabeau /de Charniáere/
+1 SEX F
+1 FAMS @F52@
+1 FAMC @F7@
+0 @I136@ INDI
+1 NAME Marguerite /de Charniáere/
+1 SEX F
+1 FAMS @F51@
+1 FAMC @F7@
+0 @I137@ INDI
+1 NAME Nicolas /Lonstriage/
+1 SEX M
+1 FAMS @F51@
+0 @I138@ INDI
+1 NAME Jacques /Bodard, procureur/
+1 SEX M
+1 FAMS @F52@
+0 @I139@ INDI
+1 NAME Michel /Bertran, sieur du Fresne, marchand/
+1 SEX M
+1 FAMS @F53@
+0 @I140@ INDI
+1 NAME Hilaire /Catroux, marchand/
+1 SEX M
+1 FAMC @F8@
+0 @F1@ FAM
+1 HUSB @I1@
+1 WIFE @I2@
+1 CHIL @I3@
+1 CHIL @I4@
+1 CHIL @I10@
+1 CHIL @I9@
+1 CHIL @I8@
+1 CHIL @I12@
+1 CHIL @I14@
+1 CHIL @I16@
+1 CHIL @I18@
+1 CHIL @I20@
+0 @F2@ FAM
+1 MARR
+2 DATE 1583
+1 HUSB @I4@
+1 WIFE @I5@
+1 CHIL @I58@
+1 CHIL @I60@
+1 CHIL @I59@
+0 @F3@ FAM
+1 HUSB @I7@
+1 WIFE @I6@
+1 CHIL @I5@
+0 @F4@ FAM
+1 HUSB @I11@
+1 WIFE @I8@
+1 CHIL @I81@
+1 CHIL @I80@
+1 CHIL @I79@
+0 @F5@ FAM
+1 HUSB @I13@
+1 WIFE @I12@
+1 CHIL @I91@
+1 CHIL @I90@
+0 @F6@ FAM
+1 HUSB @I15@
+1 WIFE @I14@
+1 CHIL @I102@
+1 CHIL @I101@
+1 CHIL @I100@
+1 CHIL @I99@
+1 CHIL @I98@
+0 @F7@ FAM
+1 HUSB @I17@
+1 WIFE @I16@
+1 CHIL @I136@
+1 CHIL @I135@
+1 CHIL @I134@
+0 @F8@ FAM
+1 HUSB @I19@
+1 WIFE @I18@
+1 CHIL @I140@
+0 @F9@ FAM
+1 HUSB @I21@
+1 WIFE @I20@
+1 CHIL @I22@
+0 @F10@ FAM
+1 HUSB @I23@
+1 WIFE @I22@
+1 CHIL @I24@
+0 @F11@ FAM
+1 HUSB @I3@
+1 WIFE @I25@
+1 CHIL @I27@
+1 CHIL @I26@
+0 @F12@ FAM
+1 HUSB @I3@
+1 WIFE @I28@
+1 CHIL @I30@
+1 CHIL @I29@
+0 @F13@ FAM
+1 HUSB @I31@
+1 WIFE @I27@
+1 CHIL @I34@
+1 CHIL @I33@
+1 CHIL @I32@
+1 CHIL @I36@
+1 CHIL @I35@
+0 @F14@ FAM
+1 HUSB @I37@
+1 WIFE @I27@
+1 CHIL @I38@
+0 @F15@ FAM
+1 HUSB @I39@
+1 WIFE @I34@
+0 @F16@ FAM
+1 HUSB @I40@
+1 WIFE @I32@
+0 @F17@ FAM
+1 HUSB @I33@
+1 WIFE @I41@
+0 @F18@ FAM
+1 HUSB @I42@
+1 WIFE @I38@
+0 @F19@ FAM
+1 HUSB @I43@
+1 WIFE @I26@
+1 CHIL @I46@
+1 CHIL @I45@
+1 CHIL @I44@
+0 @F20@ FAM
+1 HUSB @I47@
+1 WIFE @I46@
+0 @F21@ FAM
+1 HUSB @I48@
+1 WIFE @I45@
+0 @F22@ FAM
+1 HUSB @I49@
+1 WIFE @I44@
+0 @F23@ FAM
+1 HUSB @I50@
+1 WIFE @I30@
+1 CHIL @I52@
+1 CHIL @I51@
+0 @F24@ FAM
+1 HUSB @I53@
+1 WIFE @I52@
+0 @F25@ FAM
+1 HUSB @I51@
+1 WIFE @I54@
+0 @F26@ FAM
+1 HUSB @I55@
+1 WIFE @I29@
+1 CHIL @I57@
+1 CHIL @I56@
+0 @F27@ FAM
+1 HUSB @I10@
+1 WIFE @I61@
+1 CHIL @I65@
+1 CHIL @I64@
+1 CHIL @I63@
+1 CHIL @I62@
+0 @F28@ FAM
+1 HUSB @I65@
+1 WIFE @I66@
+1 CHIL @I67@
+0 @F29@ FAM
+1 HUSB @I68@
+1 WIFE @I67@
+0 @F30@ FAM
+1 HUSB @I69@
+1 WIFE @I64@
+0 @F31@ FAM
+1 HUSB @I70@
+1 WIFE @I63@
+0 @F32@ FAM
+1 HUSB @I71@
+1 WIFE @I62@
+0 @F33@ FAM
+1 HUSB @I9@
+1 WIFE @I72@
+1 CHIL @I73@
+0 @F34@ FAM
+1 HUSB @I74@
+1 WIFE @I73@
+1 CHIL @I76@
+1 CHIL @I75@
+0 @F35@ FAM
+1 HUSB @I77@
+1 WIFE @I75@
+1 CHIL @I78@
+0 @F36@ FAM
+1 HUSB @I81@
+1 WIFE @I82@
+1 CHIL @I83@
+0 @F37@ FAM
+1 HUSB @I84@
+1 WIFE @I80@
+1 CHIL @I87@
+1 CHIL @I86@
+1 CHIL @I85@
+0 @F38@ FAM
+1 HUSB @I88@
+1 WIFE @I79@
+1 CHIL @I89@
+0 @F39@ FAM
+1 HUSB @I91@
+1 WIFE @I92@
+1 CHIL @I93@
+1 CHIL @I94@
+0 @F40@ FAM
+1 HUSB @I95@
+1 WIFE @I94@
+1 CHIL @I97@
+1 CHIL @I96@
+0 @F41@ FAM
+1 HUSB @I102@
+1 WIFE @I103@
+1 CHIL @I108@
+1 CHIL @I107@
+1 CHIL @I106@
+1 CHIL @I105@
+1 CHIL @I104@
+0 @F42@ FAM
+1 HUSB @I109@
+1 WIFE @I106@
+0 @F43@ FAM
+1 HUSB @I110@
+1 WIFE @I105@
+1 CHIL @I112@
+1 CHIL @I111@
+0 @F44@ FAM
+1 HUSB @I113@
+1 WIFE @I104@
+1 CHIL @I121@
+1 CHIL @I120@
+1 CHIL @I119@
+1 CHIL @I118@
+1 CHIL @I117@
+1 CHIL @I116@
+1 CHIL @I115@
+1 CHIL @I114@
+0 @F45@ FAM
+1 HUSB @I122@
+1 WIFE @I101@
+0 @F46@ FAM
+1 HUSB @I123@
+1 WIFE @I100@
+0 @F47@ FAM
+1 HUSB @I124@
+1 WIFE @I99@
+1 CHIL @I126@
+1 CHIL @I125@
+0 @F48@ FAM
+1 HUSB @I127@
+1 WIFE @I98@
+1 CHIL @I129@
+1 CHIL @I128@
+1 CHIL @I131@
+0 @F49@ FAM
+1 HUSB @I130@
+1 WIFE @I128@
+0 @F50@ FAM
+1 HUSB @I131@
+1 WIFE @I132@
+1 CHIL @I133@
+0 @F51@ FAM
+1 HUSB @I137@
+1 WIFE @I136@
+0 @F52@ FAM
+1 HUSB @I138@
+1 WIFE @I135@
+0 @F53@ FAM
+1 HUSB @I139@
+1 WIFE @I134@
+0 TRLR
