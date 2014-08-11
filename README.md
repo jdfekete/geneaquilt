@@ -8,8 +8,17 @@ includes an overview, a timeline, search and filtering components, and
 a new interaction technique called Bring & Slide that allows fluid
 navigation in very large genealogies.
 
+## Maven
 
-# Developing with ECLIPSE
+GeneaQuilts uses Maven. To compile, simply type:
+
+`mvn install`
+
+Everything will be in the `target/` directory. In particular, two
+scripts to start the program (run.sh and run.bat).
+Alternatively, you can launch GeneaQuilts by using the generated jar file.
+
+## Developing with ECLIPSE
 
 To import the GeneaQuilts project in Eclipse, you first need to install the Subclipse plugin:
 - Go the the Help menu -> Install new software...
@@ -25,4 +34,5 @@ To compile GeneaQuilts under Eclipse, you need to install the Maven plugin:
 - Restart Eclipse. Geneaquilt should compile itself automatically.
 
 
-== COMMAND LINE ==
+## Command Line
+
